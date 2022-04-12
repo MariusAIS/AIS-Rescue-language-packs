@@ -25,6 +25,7 @@
   "SAVIOR.GROUP.DESC.AVAILABLE": "Redningsgrupper du kan bli medlem av",
   "SAVIOR.GROUP.DESC.PERM": "Forespør tilgang",
   "SAVIOR.GROUP.DESC.PERMNOT": "Avslått",
+  "SAVIOR.GROUP.DESC.PERMWAIT": "Venter",
   "SAVIOR": "Redningsmenn",
   "SAVIOR.DESC": "Redningsmennene din får varsel om dine NØD/AIS-varsler.",
   "EMERGENCY.CHOOSE": "Velg situasjon",
