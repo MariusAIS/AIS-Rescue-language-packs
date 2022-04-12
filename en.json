@@ -24,7 +24,7 @@
   "SAVIOR.GROUP.DESC.ACTIVE": "Groups you are member of",
   "SAVIOR.GROUP.DESC.AVAILABLE": "Available groups",
   "SAVIOR.GROUP.DESC.PERM": "Request access",
-  "SAVIOR.GROUP.DESC.PERMNOT": "Access declined",
+  "SAVIOR.GROUP.DESC.PERMNOT": "Declined",
   "SAVIOR": "Saviors",
   "SAVIOR.DESC": "Your saviors get notified when you send a distress message via your AIS Sender or other ALERTS.",
   "EMERGENCY.CHOOSE": "Choose an emergency",
