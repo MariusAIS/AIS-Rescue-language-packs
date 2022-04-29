@@ -21,7 +21,7 @@
   "AIS.SENDER": "AIS Sender",
   "AIS.SENDER.DESC": "Din AIS Sender blir registrert på deg.",
   "SAVIOR.GROUP": "Premium",
-  "SAVIOR.GROUP.DESC.ACTIVE": "Redningsgrupper du er medlem av",
+  "SAVIOR.GROUP.DESC": "Med premium vil dine varsler sendes direkte til Avarn Security for enda raskere redning.",
   "SAVIOR.GROUP.DESC.AVAILABLE": "Redningsgrupper du kan bli medlem av",
   "SAVIOR.GROUP.DESC.PERM": "Kjøp Premium",
   "SAVIOR.GROUP.DESC.PERMNOT": "Avslått",

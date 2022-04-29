@@ -21,7 +21,7 @@
   "AIS.SENDER": "AIS Sender",
   "AIS.SENDER.DESC": "In a MOB situation, you AIS Sender will send a distress message and your Saviors will get notified.",
   "SAVIOR.GROUP": "Premium",
-  "SAVIOR.GROUP.DESC.ACTIVE": "Groups you are member of",
+  "SAVIOR.GROUP.DESC": "With Premium your emergancy-transmitions will be sent directly to Avarn Security.",
   "SAVIOR.GROUP.DESC.AVAILABLE": "Available groups",
   "SAVIOR.GROUP.DESC.PERM": "Buy Premium",
   "SAVIOR.GROUP.DESC.PERMNOT": "Declined",
