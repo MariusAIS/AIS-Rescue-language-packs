@@ -1,7 +1,7 @@
 {
   "USERNAME": "Email",
   "PASSWORD": "Password",
-  "PASSWORD.FORGOT": "Forgot password",
+  "PASSWORD.FORGOT": "Forgot password?",
   "REGISTER": "Register",
   "LOGIN": "Log in",
   "SUBMIT": "Submit",

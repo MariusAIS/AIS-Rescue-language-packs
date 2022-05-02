@@ -1,7 +1,7 @@
 {
   "USERNAME": "Brukernavn",
   "PASSWORD": "Passord",
-  "PASSWORD.FORGOT": "Glemt Passord",
+  "PASSWORD.FORGOT": "Glemt Passord?",
   "REGISTER": "Registrer deg",
   "LOGIN": "Logg inn",
   "SUBMIT": "Send inn",
