@@ -9,7 +9,7 @@
   "LASTNAME": "Etternavn",
   "PASSWORD.REPEAT": "Gjenta passord",
   "MOBILE.NUMBER": "Mobilnummer",
-  "ACCEPT.TERM": "Godta Redningsappen Personvernserklæring",
+  "ACCEPT.TERM": "Godta Redningsappens <a href='https://redningsappen.no/privacy-policy/'>Personvernerklæring</a>",
   "PHONE": "Mobilnummer",
   "BACK": "Tilbake",
   "TABS.MAP": "KART",
