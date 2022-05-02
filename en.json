@@ -10,6 +10,7 @@
   "PASSWORD.REPEAT": "Repeat password",
   "MOBILE.NUMBER": "Mobile number",
   "ACCEPT.TERM": "Do you accept the <a href='https://redningsappen.no/privacy-policy/'>Terms</a>",
+  "ACCEPT.TERM.LINK": "<a href='https://redningsappen.no/privacy-policy/'>Terms and agreements</a>",
   "PHONE": "Phone",
   "BACK": "Back",
   "TABS.MAP": "MAP",
