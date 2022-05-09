@@ -69,7 +69,7 @@
   "TUTORIAL.FINISHED.DESC": "",
   "TUTORIAL.FINISHED.BUTTON": "Continue",
   "ADD.AIS.HEADER": "AIS Sender",
-  "ADD.AIS.DESC": "Add the MMSI number on your AIS sender, it is an unique number for all AIS senders.",
+  "ADD.AIS.DESC": "Add the MMSI number on your AIS sender, it is an unique number for all AIS senders containing 9 digits.",
   "ADD.BUTON": "Add",
   "EDIT.BUTON": "Edit",
   "DELETE.BUTON": "Delete",
