@@ -80,7 +80,7 @@
   "EMERGENCY.CONTACTS.MEDIC": "Ambulanse",
   "EMERGENCY.CONTACTS.CLOSE": "Lukk",
   "SAVIOR.CONTACTS.HEADER": "Redningsmenn",
-  "SAVIOR.CONTACTS.DESC": "En SMS blir sendt til kredentialene du oppgir her.",
+  "SAVIOR.CONTACTS.DESC": "En SMS blir sendt til mobiltelefon-nummeret du oppgir her.",
   "SAVIOR.CONTACTS.DESC.ADDITIONAL": "",
   "SAVIOR.CONTACTS.NAME.PLACEHOLDER": "Navn",
   "SAVIOR.CONTACTS.PHONE": "Mobiltelefon-nummer",
