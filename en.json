@@ -80,7 +80,7 @@
   "EMERGENCY.CONTACTS.MEDIC": "Ambulace",
   "EMERGENCY.CONTACTS.CLOSE": "Close",
   "SAVIOR.CONTACTS.HEADER": "Saviors",
-  "SAVIOR.CONTACTS.DESC": "A SMS will be sent to the credentials given here.",
+  "SAVIOR.CONTACTS.DESC": "A SMS will be sent to the mobile phonenumber given here.",
   "SAVIOR.CONTACTS.DESC.ADDITIONAL": "",
   "SAVIOR.CONTACTS.NAME.PLACEHOLDER": "Name",
   "SAVIOR.CONTACTS.PHONE": "Mobile pnonenumber",
