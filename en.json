@@ -106,6 +106,7 @@
   "SAVIOR.CONTACTS.LANDCODE": "Landcode",
   "SAVIOR.CONTACTS.PHONE.PLACEHOLDER": "Mobile phone number",
   "CANCEL": "Cancel",
-  "DELETE.USER": "Delete user",
+  "DELETE.USER": "Account administration",
+  "DELETE.USER.BUTTON": "Delete user",
   "RESET": "Reset"
 }
