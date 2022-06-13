@@ -106,5 +106,7 @@
   "SAVIOR.CONTACTS.LANDCODE": "Landkode",
   "SAVIOR.CONTACTS.PHONE.PLACEHOLDER": "Mobiltelefon-nummer",
   "CANCEL": "Avbryt",
+  "DELETE.USER": "Konto administrasjon",
+  "DELETE.USER.BUTTON": "Slett bruker",
   "RESET": "Tilbakestill"
 }
